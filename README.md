@@ -1,1 +1,1 @@
-# sql_learningmaterials
+# sql_learning_materials
